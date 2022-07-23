@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Federico Siddi</h1>
 <h3 align="center">A self taught backend developer from Italy and Tomorrowdevs community member</h3>
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **NodeJS** and then my plan is to learn **Typescript**
 
 - 📫 How to reach me **sfdev25@gmail.com**
 
