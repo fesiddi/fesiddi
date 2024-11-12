@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Federico Siddi
+<h1 align="center">Hi there! 👋 I'm Federico Siddi</h1>
 
 <p align="center"><em>A backend developer with a solid foundation in Node.js, Python, and a passion for continuous learning</em></p>
 
