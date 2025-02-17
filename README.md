@@ -6,8 +6,6 @@
 
 I’m a backend developer with two years of experience, passionate about creating reliable and scalable applications. Starting as a self-taught developer, I’ve worked remotely on various projects where I gained hands-on experience with **Node.js**, **Python**, **PHP**, and frameworks like **Express**, **FastAPI** and **Symfony**. My journey so far has strengthened my problem-solving skills and my commitment to continual growth in the backend field.
 
-My next goal is to learn **Golang** to broaden my skill set and work with new technologies.
-
 ### 💼 Tech Stack
 - **Languages:** Node.js, Python, PHP
 - **Databases:** SQlite, PostgreSQL, MongoDB
